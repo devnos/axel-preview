@@ -1,0 +1,1 @@
+import{n as e}from"./scroll-into-view.B5-0te-m.js";document.querySelector(`.footer-brand`)?.addEventListener(`click`,t=>{t.preventDefault(),e(null)});
