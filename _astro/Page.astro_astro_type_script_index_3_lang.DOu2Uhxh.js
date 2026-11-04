@@ -1,1 +1,0 @@
-import{n as e}from"./scroll-into-view.B5-0te-m.js";var t=[...document.querySelectorAll(`.reference-card, .reference-button.secondary`)],n=document.getElementById(`directions`);for(let r of t)r.addEventListener(`touchstart`,()=>{},{passive:!0}),r.addEventListener(`click`,t=>{t.preventDefault(),n&&e(n)});
