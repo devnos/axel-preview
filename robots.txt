@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /axel-preview/
+Sitemap: https://devnos.github.io/axel-preview/sitemap.xml
